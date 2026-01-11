@@ -1,5 +1,7 @@
-![SillySMP](https://cdn.modrinth.com/data/cached_images/485f96083b1509f73f432d92e2e8ae4e385df157.png)
+![SillyMC](https://cdn.modrinth.com/data/cached_images/485f96083b1509f73f432d92e2e8ae4e385df157.png)
 ##  
+
+# [CHECK IT OUT ON MODRINTH](https://modrinth.com/modpack/silly-mc)
 
 SillyMC is a modpack focused on expanding and overhauling vanilla content with newer, fresher mods, while also adding mods that add completely new features. Also it tries to put together some mods to try and make a cool modded experience on modern Minecraft, where there aren't as many content mods.
 
